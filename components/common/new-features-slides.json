@@ -1,0 +1,49 @@
+{
+    "activeSlider": "rent_terms",
+    "local_sliders": {
+        "rent_terms": {
+            "slides": [
+                {
+                    "image_url": "/img/new-features/manage.jpg",
+                    "heading": "Управляйте арендой ТС<br> в одном месте",
+                    "description": "Гибкая настройка условий аренды вашего&nbsp;таксопарка",
+                    "button": {
+                        "type": "secondary",
+                        "text": "Далее"
+                    }
+                },{
+                    "image_url": "/img/new-features/flexibility.jpg",
+                    "heading": "Гибкие шаблоны",
+                    "description": "Настраивайте параметры сразу для&nbsp;множества машин",
+                    "button": {
+                        "type": "secondary",
+                        "text": "Далее"
+                    }
+                },{
+                    "image_url": "/img/new-features/intellectuality.jpg",
+                    "heading": "Умный расчет аренды",
+                    "description": "Стоимость аренды&nbsp;высчитывается исходя из&nbsp;параметров автомобиля",
+                    "button": {
+                        "type": "primary",
+                        "text": "Начнем пользоваться"
+                    }
+                }
+            ]
+        }
+    },
+
+    "global_sliders": {
+        "rent_terms": {
+            "slides": [
+                {
+                    "image_url": "/img/new-features/intellectuality.jpg",
+                    "heading": "Добавлена возможность управления арендой ТС",
+                    "button": {
+                        "type": "primary",
+                        "text": "Ознакомиться сейчас"
+                    }
+                }
+            ]
+        }
+    }
+}
